@@ -16,6 +16,10 @@ time: 5
 ## You will learn
 You'll learn how to start the VM, change the VM default keyboard layout, and change the default time zone.
 
+## Intro
+
+Test test test intro test
+
 ---
 
 
