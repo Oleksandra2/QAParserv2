@@ -5,7 +5,7 @@ primary_tag: topic>user-interface
 time: 5
 ---
 
-# Set Keyboard and Time Zone QA eight
+# Set Keyboard and Time Zone QA eight updated
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 <!-- loiod0775daa77ca4aaea29ea74b3e2e2ac1 -->
@@ -17,8 +17,6 @@ time: 5
 You'll learn how to start the VM, change the VM default keyboard layout, and change the default time zone.
 
 ---
-
-## Intro
 
 
 ### Start your VM
